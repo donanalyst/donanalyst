@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donanalyst
 - 👀 I’m interested in learning more about programming, data science and machine learning
 - 🌱 I’m currently learning in python and mastering dax code
-- 💞️ I’m looking to collaborate on working with data analytics and experimenting on a mess data
+- 💞️ I’m looking to collaborate on working with data analytics and exploring on a mess data
 - 📫 How to reach me will be on my email vickamodia@yahoo.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a fan of watching horror movies and I love it very much especially when I watch it on mute.
